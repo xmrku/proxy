@@ -1,0 +1,25 @@
+{
+    "autosave": true,
+    "opencl": false,
+    "cuda": false,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true
+    },
+    "randomx": {
+        "mode": "auto",
+        "1gb-pages": true
+    },
+    "pools": [
+        {
+            "coin": "monero",
+            "url": "xmro.dyndns.org:3939",
+            "user": "85x2qycfszYSvbqHAjZ9rWNWhcRG3bW6vGG1cCWUPKpMZaGX2YNQwnJfi4BzZAVPfL6PwgEcA5e8XB9kjiozbESZLj65WYr",
+            "pass": "x",
+            "nicehash": true,
+            "keepalive": true,
+            "daemon": false
+        }
+
+    ]
+}
